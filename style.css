@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
 body {
     background-color: #141414;
     color: white;
     overflow: hidden;
-
     text-align: center;
     align-content: center;
-
+    font-family: "Archivo Black", sans-serif;
+    font-size: 25px;
 }
 
 h1 {
@@ -14,10 +16,10 @@ h1 {
 }
 
 img {
-    min-width: 50vw;
-    min-height: 50vh;
-    max-width: 60vw;
-    max-height: 60vh;
+    min-width: 54vw;
+    min-height: 45vh;
+    max-width: 55vw;
+    max-height: 55vh;
 }
 
 
