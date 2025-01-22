@@ -20,8 +20,6 @@ h1 {
 }
 
 img {
-    min-width: 54vw;
-    min-height: 45vh;
     max-width: 55vw;
     max-height: 55vh;
 }
